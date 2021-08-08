@@ -1,6 +1,10 @@
 ## Hi there, My name is Sean!
 
-### I'm a Computer Science and Computer Graphics student at Victoria University of Wellington in New Zealand
+### I'm a Computer Science and Computer Graphics student
+
+- 🎓 2nd year student at Victoria University of Wellington, New Zealand
+- 🎮 Keen interest in real time computer graphics
+- 🎸 Love playing the guitar
 
 ## Languages
 
@@ -16,6 +20,14 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
+<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
+
+<br>
+
+## Connect With Me
+
+<img align="left" alt="Linkedin" width="26px" src="https://icon-library.com/images/linkedin-icon-no-background/linkedin-icon-no-background-18.jpg" href="https://www.linkedin.com/in/sean-preston-5a6a12203/" />
+
 
 <!--
 **seanpreston2904/seanpreston2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
