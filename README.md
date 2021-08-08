@@ -26,7 +26,9 @@
 
 ## Connect With Me
 
-<img align="left" alt="Linkedin" width="26px" src="https://icon-library.com/images/linkedin-icon-no-background/linkedin-icon-no-background-18.jpg" href="https://www.linkedin.com/in/sean-preston-5a6a12203/" />
+[<img align="left" alt="Linkedin" width="26px" src="https://icon-library.com/images/linkedin-icon-no-background/linkedin-icon-no-background-18.jpg"/>](https://www.linkedin.com/in/sean-preston-5a6a12203/)
+
+
 
 
 <!--
