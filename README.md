@@ -1,7 +1,8 @@
-### Hi there, My name is Sean!
-## I'm a Computer Science and Computer Graphics student at Victoria University of Wellington in New Zealand
+## Hi there, My name is Sean!
 
-### Languages
+### I'm a Computer Science and Computer Graphics student at Victoria University of Wellington in New Zealand
+
+## Languages
 
 <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
@@ -9,10 +10,12 @@
 <img align="left" alt="C#" width="26px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-### Tools
+<br>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+## Tools
 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
 
 <!--
 **seanpreston2904/seanpreston2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
