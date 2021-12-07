@@ -18,6 +18,8 @@
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="left" alt="C#" width="26px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="JS" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />
+<img align="left" alt="React" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/react-js.png" />
 
 <br>
 
