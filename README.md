@@ -9,7 +9,7 @@
 ## Languages
 
 #### Proficient
-<img align="left" alt="Java" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" />
+<img align="left" alt="Java" width="26px" src="https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 
 <br>
