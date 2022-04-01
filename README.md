@@ -2,14 +2,14 @@
 
 ### I'm a Computer Science and Computer Graphics student
 
-- 🎓 2nd year student at Victoria University of Wellington, New Zealand
+- 🎓 3rd year student at Victoria University of Wellington, New Zealand
 - 🎮 Keen interest in real time computer graphics
 - 🎸 Love playing the guitar
 
 ## Languages
 
 #### Proficient
-<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 
 <br>
